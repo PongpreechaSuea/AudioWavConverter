@@ -1,0 +1,44 @@
+# Ignore audio and video files
+*.wav
+*.mp3
+*.mp4
+*.m4a
+
+# Ignore output directory
+output/
+
+# Ignore data directory
+data/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environment
+venv/
+env/
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+
+# Ignore compiled Python files
+*.pyc
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore any local configuration files
+config.local.ini

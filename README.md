@@ -26,9 +26,10 @@ Audio Converter to WAV is a specialized project dedicated to converting various 
 <br>
 
 
-<div style="text-align: center;">
-  <img src="./assets/image2.png" alt="FFmpeg download" width="600" height="300">
-</div>
+<p align="center">
+  <img src="./assets/image2.png" alt="FFmpeg download" width="800"/>
+</p>
+
 
 <br>
 
