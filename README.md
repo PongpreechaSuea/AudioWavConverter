@@ -70,19 +70,10 @@ This will convert the file "President Obama Makes Historic Speech to America's S
 - `convert_file.py`: Contains the `convert_to_wav` function that handles the conversion process.
 - `requirements.txt`: Lists the Python package dependencies.
 
-
 ## Example Input
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <video width="640" height="480" controls>
-    <source src="./assets/President Obama Makes Historic Speech to Americas Students - English subtitles.mp4" type="video/mp4">
-  </video>
-</div>
+[Download input video (President Obama's Speech)](./assets/President%20Obama%20Makes%20Historic%20Speech%20to%20Americas%20Students%20-%20English%20subtitles.mp4)
 
 ## Example Output
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <audio controls>
-    <source src="./assets/output.mp3" type="audio/mpeg">
-  </audio>
-</div>
+[Download output audio](./assets/output.mp3)
